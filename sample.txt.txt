@@ -1,5 +1,0 @@
-This is a Sample file 
-
-which is using for Jennkins.
-
-Hi Good Morning.

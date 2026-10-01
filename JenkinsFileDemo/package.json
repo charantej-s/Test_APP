@@ -1,0 +1,14 @@
+{
+    "name":"SampleAPP",
+    "version":"1.0.0",
+    "description":"Test",
+    "main":"server.js",
+
+    "script":{
+         "start":"node serer.js",
+         "test":"node --check derver.js"
+        },
+        "dependencies":{
+            "express":"^5.2.1"
+        }      
+}        
